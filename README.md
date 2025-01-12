@@ -1,7 +1,7 @@
 Hi 👋 My name is Amrit Singh
 ============================
 
-Full Stack Web Developer
+Frontend Developer
 ------------------------
 
 Hello Everyone, I am Amrit Singh, currently, I am pursuing BCA and I have been learning to code for 1 year, I started with Html but have really found a passion for a full-stack web developer.
